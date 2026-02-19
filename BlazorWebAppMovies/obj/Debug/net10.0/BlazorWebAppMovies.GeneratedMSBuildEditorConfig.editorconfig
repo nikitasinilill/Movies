@@ -62,10 +62,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Nb3ZpZVBhZ2VzL0VkaXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/qise/ISA2/Movies/BlazorWebAppMovies/Components/Pages/MoviePages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Nb3ZpZVBhZ2VzL0luZGV4LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/qise/ISA2/Movies/BlazorWebAppMovies/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ob3RGb3VuZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -93,3 +89,7 @@ build_metadata.AdditionalFiles.CssScope = b-p4aj3ulfed
 [/Users/qise/ISA2/Movies/BlazorWebAppMovies/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-60wkgd9tlm
+
+[/Users/qise/ISA2/Movies/BlazorWebAppMovies/Components/Pages/MoviePages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Nb3ZpZVBhZ2VzL0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-r9kxcgojw2
